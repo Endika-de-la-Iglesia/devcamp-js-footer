@@ -8,5 +8,6 @@ var moment = require('moment');
  * @return {string}
  */
 exports.footer = function (name) {
-    return "Copyright " + moment().format('YYYY') + " " + name + " All rights reserved";
+    const footerText = "Copyright " + moment().format('YYYY') + " " + name + " All rights reserved";
+    return footerText;
 };
