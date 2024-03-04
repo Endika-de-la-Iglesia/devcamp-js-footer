@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "1.0.0",
+  "description": "This is just an exercise for the Devcamp-Bottega-Full stack course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endika-de-la-Iglesia/devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "endikadelaiglesia <endika.delaiglesia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Endika-de-la-Iglesia/devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/Endika-de-la-Iglesia/devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
